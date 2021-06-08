@@ -1,3 +1,3 @@
 # Blackjack
-### Simple Blackjack Game Created Using Python
-#### Follows The Same Rules
+### Simple Blackjack game created using Python
+#### Follows some of the same rules
